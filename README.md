@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Adarshkumar03
-- 👀 I’m interested in Web Development 
+- 👋 Hi, I’m Adarsh Kunar
+- 👀 I’m interested in Web Development(Both Frontend and Backend)
 - 🌱 I’m currently learning React.js
 
 <!---
