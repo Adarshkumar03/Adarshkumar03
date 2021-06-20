@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh Kumar
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Node.js
 - 🧑‍💻 I'm currently working on Tic-tac-toe project
 
 <!---
