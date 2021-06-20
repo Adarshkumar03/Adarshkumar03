@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adarsh Kumar
-- 👀 I’m interested in Web Development(Both Frontend and Backend)
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React.js
 - 🧑‍💻 I'm currently working on Tic-tac-toe project
 
