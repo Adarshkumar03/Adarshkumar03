@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adarsh Kumar
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Node.js
-- 🧑‍💻 I'm currently working on Tic-tac-toe project
+- 🧑‍💻 I'm currently working on Members-only project
 
 <!---
 Adarshkumar03/Adarshkumar03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
