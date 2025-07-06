@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adarsh Kumar
 - I have 4 years of experience in Full Stack Web Development.
-- 👀 I’m specialized in MERN Stack Web Development.
 - 🌱 I’m currently learning Docker and Kubernetes.
 
 <!---
